@@ -1,0 +1,2 @@
+# allscript
+Any script
